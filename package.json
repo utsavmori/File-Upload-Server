@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "",
+  "version": "",
+  "description": "It accepts file from different pcs and stores file to uploads folder.",
+  "dependencies": {
+    "express": "^4.12",
+    "express-fileupload": "^0.3.0"
+  }
+}
